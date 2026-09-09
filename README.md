@@ -1,7 +1,7 @@
 Author: Arh4ck2r
 ### Version 1
 
-(![image])(https://raw.githubusercontent.com/Ar-h4ck2r/AR_HACKTOOLS/main/arhacker.png)
+(![image](https://raw.githubusercontent.com/Ar-h4ck2r/AR_HACKTOOLS/main/arhacker.png)
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
@@ -18,13 +18,18 @@ works on any of the following operating systems:
 • Unix
 
 # How to Install
-* Open the terminal and type `<pkg install git>`
+* Open the terminal and type      `pkg install git`
 *
-* Then`<git clone https://github.com/AR-h4ck2r/AR-HACKTOOLS.git>`
+* Then  Type   `git clone https://github.com/AR-h4ck2r/AR-HACKTOOLS.git`
 *
-* `cd AR_HACKTOOS>`
+* Then  Type   `cd AR_HACKTOOLS`
 *
-* `bash arhacker.sh`
+* Then  Type   `bash arhacker.sh`
+
+# Warning
+
+We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+* 
 
 
 
